@@ -4,4 +4,4 @@
 - 😁 I am interested in backend development, automation, and web development
 - 💡 I’m currently working with Python/Java and web development languages (HTML, CSS, & JavaScript)
 
-📫 How to reach me: cristianiperez23@gmail.com | https://www.linkedin.com/in/cristian-perez23 | https://www.cristianianperez.com
+📫 How to reach me: cristianiperez23@gmail.com | https://www.linkedin.com/in/cristian-perez23
